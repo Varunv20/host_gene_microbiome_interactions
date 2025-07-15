@@ -1,0 +1,12 @@
+name: host_gene_microbiome_interactions
+title: host_gene_microbiome_interactions
+username: iit-host-gene-microbes
+account: iit-host-gene-microbes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15075571
+bundleId: 10622116
+url: https://iit-host-gene-microbes.shinyapps.io/host_gene_microbiome_interactions/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

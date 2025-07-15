@@ -1,0 +1,12 @@
+Call: CCA(x = X, z = Z, typex = "standard", typez = "standard", penaltyx = penaltyX, 
+    penaltyz = penaltyZ, K = CCA.K, v = vInit)
+
+
+Num non-zeros u's:  1659 1463 1889 1700 1576 1783 1831 1767 1800 1822 
+Num non-zeros v's:  32 34 34 36 34 33 45 36 31 33 
+Type of x:  standard 
+Type of z:  standard 
+Penalty for x: L1 bound is  0.3 
+Penalty for z: L1 bound is  0.3 
+Cor(Xu,Zv):  0.8826688 0.8903748 0.8875592 0.852989 0.8810386 
+0.9304965 0.9057443 0.8642092 0.8298683 0.916065
